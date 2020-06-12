@@ -3,7 +3,7 @@ title: "Could 3D printing be a new frontier in healthcare?"
 date: 2020-06-01T20:31:02+01:00
 draft: true
 ---
-![3D-heart](/posts/heart.jfif)
+![3D-heart](heart.jfif)
 
 
 ***WHAT IS 3D PRINTING?***
@@ -22,7 +22,7 @@ Medical imaging technology such as Magnetic Resonance Imaging (MRI) and Computed
 
 *Prosthetic medical devices*
 
-![prosthetic-leg](/posts/leg.jfif)
+![prosthetic-leg](leg.jfif)
 
 Cutting-edge printing technology is facilitating the production of custom made prosthetics and orthotics to cater to those with disabilities and help rehabilitate injured individuals. These devices are specific to the geometric anatomy of the individual, offering a comfortable fit and an improved quality of life. 3D printed prostheses can also be manufactured in a fraction of the time conventional methods require. The increasing availability of 3D printing has led to an explosion of companies that are implementing it to create devices for people living with disabilities and medical conditions.
 
@@ -30,7 +30,7 @@ Cutting-edge printing technology is facilitating the production of custom made p
 
 A new generation of surgeons will soon benefit from innovative medical learning tools. 3D printing technology can help model complex anatomical pathologies, eliminating the need for cadavers. Highly-detailed models of the human skull have been produced which allow simulation of the brain surgery experience. Plastics with a variety of textures are printed to mimic the different tissue layers found inside the skull. Additionally, patient-specific models can simulate different medical conditions and pathologies, for example, brain tumours. 
 
-![brain](/posts/brain.jfif)
+![brain](brain.jfif)
 
 *Bioprinting*
 

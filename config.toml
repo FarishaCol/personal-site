@@ -24,11 +24,8 @@ licenseURL = "https://creativecommons.org/licenses/by-sa/4.0"
 # themeColor = "#fc2803"
 
 ## Set custom CSS and/or JS to override site defaults.
-customCss = ["css/blog.css"]
-customJs = ["js/blog.js"]
-
-
-
+# customCss = ["css/blog.css"]
+# customJs = ["js/blog.js"]
 
 [menu]
 
